@@ -1,0 +1,41 @@
+/ == > landing page
+
+/home == > home page products category 
+
+/login == > 
+ 
+
+
+
+User 
+== >
+username : 
+password : 
+
+Admin
+== > 
+
+
+layout 
+
+navbar layout 
+===================
+left -- cname , logo, 
+category hover
+    e-devices
+        ---mobiles laptops 
+    
+cart
+
+sign in signout 
+
+==below navbar 
+
+wallaper carousel side bar offers  
+
+e-devices
+
+books
+
+
+fashions
